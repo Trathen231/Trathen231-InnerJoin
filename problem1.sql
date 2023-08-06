@@ -1,4 +1,4 @@
-SELECT
+SELECT 
   student.id,
   student.student_name
 FROM
